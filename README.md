@@ -9,6 +9,6 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution
 
 * [Week 3 - Custom Layers] 
 * [Week 4 - Custom Models, Layers, and Loss Functions with TensorFlow] 
-* [Week 1 - Differentiation and Gradients] 
+* [Week 5 - Custom Callbacks] 
 
-* [Week 2 - Custom Training] 
+ 
